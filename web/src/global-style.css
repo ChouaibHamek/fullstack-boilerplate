@@ -1,0 +1,10 @@
+:global(html), :global(body) {
+  height: 100%;
+}
+
+:global(.full-height),
+:global(#root),
+:global(.app-main) {
+  height: 100%;
+  box-sizing: border-box;
+}

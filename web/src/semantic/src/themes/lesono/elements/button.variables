@@ -1,0 +1,6 @@
+/*-------------------
+   Button Variables
+--------------------*/
+
+@lesonoPink: #f875af;
+@primaryColor: @lesonoPink;
