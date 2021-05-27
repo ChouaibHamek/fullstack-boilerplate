@@ -1,0 +1,22 @@
+{
+  "name": "hackathon-server",
+  "version": "0.0.1",
+  "description": "Boilerplate server",
+  "author": "Chouaib Hamek",
+  "scripts": {
+    "server": "NODE_ENV=development nodemon server.js",
+    "start": "NODE_ENV=production node server.js"
+  },
+  "keywords": [],
+  "devDependencies": {
+    "nodemon": "^1.17.2"
+  },
+  "dependencies": {
+    "axios": "^0.18.0",
+    "body-parser": "^1.18.2",
+    "cors": "^2.8.4",
+    "express": "^4.17.1",
+    "morgan": "^1.9.0",
+    "uuid": "^3.3.2"
+  }
+}
